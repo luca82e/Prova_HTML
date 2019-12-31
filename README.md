@@ -1,8 +1,7 @@
 ## Prova del mio sito
 ecco il mio sito [La mia pagina](https://github.com/luca82e/Prova_HTML/edit/master/README.md).
 
-Whenever you commit to this repository, Git Hub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files [p2](/Prova_HTML
-/pagina2).
+Whenever you commit to this repository, Git Hub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files [p2](/Prova_HTML/pagina2).
 
 ### Markdown
 
