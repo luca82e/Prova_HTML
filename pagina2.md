@@ -1,6 +1,6 @@
 layout: page
 title: "PAGE DUE"
-permalink: /p2/
+permalink: /Prova_HTML/p2/
 
 #pagina 2
 viola
